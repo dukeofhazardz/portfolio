@@ -4,7 +4,7 @@
   width: 87%;
   min-height: 600px;
   margin: 30px;
-  background: rgba(0, 0, 0, 0.071);
+  background: rgba(0, 0, 0, 0.600);
   border-radius: 45px;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
@@ -180,7 +180,7 @@
   }
   
   .basic p span {
-    font-size: 25px;
+    font-size: 22px;
     display: block;
     margin-top: 5px;
   }
